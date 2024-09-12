@@ -22,7 +22,7 @@ public class SmallestPositiveIntThatIsNotSum {
         return sum;
     }
     public static void main(String[] args) {
-        int [] jim = {1,2,3,10}; //Answer should be 7 but getting 13
+        int [] jim = {1,2,3,10}; //Answer should be 7
         System.out.println(smallestPosInt(jim));
     }
 
